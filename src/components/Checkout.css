@@ -1,0 +1,33 @@
+.checkout {
+    display: flex;    
+    padding: 14px 18px 18px;    
+    background-color: white;
+    height: max-content;    
+}
+
+.checkout__left {
+    width: 90%;
+}
+
+.checkout__ad {
+    font-size: 14px;
+    margin-bottom: 22px;    
+}
+
+.checkout__ad > strong {
+    font-weight: 700;
+}
+
+.checkout__ad > strong > span {
+    color: #b22222;
+}
+
+.checkout__title {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.2;
+}
+
+.checkout__right {
+    margin-top: 60px;
+}
